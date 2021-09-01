@@ -1,0 +1,2 @@
+# CDN
+hexo cdn
